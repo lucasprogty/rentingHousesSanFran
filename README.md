@@ -1,0 +1,1 @@
+esse foi um exercício do curso "100 days of code" da Dra. Angela Yu no qual por meio de webscrapping selecionamos o endereço, valor do aluguel e endereceço de casas em san francisco, e após isso preenchemos em nosso formulario para futuras analises.
